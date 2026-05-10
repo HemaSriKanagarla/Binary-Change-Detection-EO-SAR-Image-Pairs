@@ -15,10 +15,8 @@ data/
 
 ├── train/
 https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/train.zip
-├── val/
-https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/val.zip
-└── test/
-https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/test.zip
+├── val/   https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/val.zip
+└── test/  https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/test.zip
 
 Each split contains:
 - pre-event images
