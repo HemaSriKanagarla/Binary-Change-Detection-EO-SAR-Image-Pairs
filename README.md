@@ -14,9 +14,11 @@ The model predicts pixel-level change masks between pre-event and post-event sat
 data/
 
 ├── train/
-https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/train.zip
-├── val/   https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/val.zip
-└── test/  https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/test.zip
+- https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/train.zip
+├── val/  
+- https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/val.zip
+└── test/
+- https://huggingface.co/datasets/doron333/change-detection-dataset/blob/main/test.zip
 
 Each split contains:
 - pre-event images
