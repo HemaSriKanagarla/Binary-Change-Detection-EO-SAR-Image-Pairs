@@ -72,12 +72,15 @@ Combined:
 
 ---
 
+
 # Results
 
 | Split | IoU | F1 |
 |---|---|---|
+| Validation | 0.8487 | 0.8572 |
+| Test | 0.3430 | 0.4858 |
 
-(Add your values)
+https://drive.google.com/file/d/1JH9mmTZDrGAPekEBuCMOneJ-6dFZENCt/view?usp=sharing
 
 ---
 
