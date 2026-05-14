@@ -52,7 +52,9 @@ python eval.py
 - 4-channel input:
   - RGB EO image
   - SAR image
-
+Pre-Event EO Image ─┐
+                    ├──> U-Net (ResNet34 Encoder) ───> Binary Change Mask
+Post-Event SAR ────┘
 ---
 
 # Loss Function
